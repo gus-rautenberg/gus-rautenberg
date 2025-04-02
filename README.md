@@ -20,15 +20,15 @@ Feel free to connect and explore my projects!
   <a href="https://github.com/gus-rautenberg">
     <img 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api?username=gus-rautenberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
     />
   </a>
 
   <img 
     alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rautenberg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rautenberg&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=6" 
   />
 </div>
 
