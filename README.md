@@ -14,22 +14,22 @@ Always learning and building! 🚀
 Feel free to connect and explore my projects!
 
 ### 📊 Stats
-<div align="center">
+
+<div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/gus-rautenberg">
     <img 
       alt="GitHub Stats" 
       height="180" 
       src="https://github-readme-stats.vercel.app/api?username=gus-rautenberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
     />
-  
-
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rautenberg&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=6" 
-  />
+    <img 
+      alt="Top Languages" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rautenberg&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=6" 
+    />
   </a>
 </div>
+
 ---
 
 ### How to reach me?
