@@ -1,4 +1,6 @@
 ## ~$ whoami 👨🏼‍💻
+**`FullStack Developer`**
+
 I'm Gustavo Portela Rautenberg, a Software Engineer with a degree in Computer Science from Unioeste (State University of Western Paraná), Class of 2025.
 
 🔹 Currently working with Spring Boot and Next.js
@@ -7,6 +9,9 @@ I'm Gustavo Portela Rautenberg, a Software Engineer with a degree in Computer Sc
 Always learning and building! 🚀
 
 Feel free to connect and explore my projects!
+
+---
+
 ### 📊 Stats
 <p>
   <img 
