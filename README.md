@@ -16,18 +16,19 @@ Feel free to connect and explore my projects!
 ---
 
 ### 📊 Stats
-<div>
-  <a href="https://github.com/gus-rautenberg"/>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/gus-rautenberg">
+    <img 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=gus-rautenberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    />
+  </a>
+
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=gus-rautenberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"  -->
-  />
-
-<img 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rautenberg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rautenberg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </div>
 
