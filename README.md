@@ -13,7 +13,8 @@ Feel free to connect and explore my projects!
 ---
 
 ### 📊 Stats
-<p>
+<div>
+  <a href="https://github.com/gus-rautenberg"/>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -28,7 +29,7 @@ Feel free to connect and explore my projects!
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rautenberg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
 
 ---
 
