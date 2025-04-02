@@ -20,7 +20,7 @@ Feel free to connect and explore my projects!
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gus-rautenberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en-us" 
+    src="https://github-readme-stats.vercel.app/api?username=gus-rautenberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
