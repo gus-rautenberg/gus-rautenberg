@@ -4,8 +4,11 @@
 I'm Gustavo Portela Rautenberg, a Software Engineer with a degree in Computer Science from Unioeste (State University of Western Paraná), Class of 2025.
 
 🔹 Currently working with Spring Boot and Next.js
+
 🔹 Passionate about Machine Learning
+
 🔹 Exploring Data Science & DevOps 
+
 Always learning and building! 🚀
 
 Feel free to connect and explore my projects!
