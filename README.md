@@ -19,15 +19,12 @@ Feel free to connect and explore my projects!
 <div>
   <a href="https://github.com/gus-rautenberg"/>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-<!--     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gus-rautenberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"  -->
   />
 
 <img 
-      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rautenberg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
@@ -51,9 +48,10 @@ Feel free to connect and explore my projects!
 </div>
 
 ---
+
 ### How to reach me?
 <div> 
-  <a href = "mailto:gprautenberg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-portela-rautenberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gprautenberg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gus.rautenberg_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
