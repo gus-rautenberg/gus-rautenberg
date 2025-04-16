@@ -20,7 +20,7 @@ Feel free to connect and explore my projects!
     <img 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=gus-rautenberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+      src="https://github-readme-stats.vercel.app/api?username=gus-rautenberg&show_icons=true&theme=tokyonight&include_all_commits=true" 
     />
     <img 
       alt="Top Languages" 
