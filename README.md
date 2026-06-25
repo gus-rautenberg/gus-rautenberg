@@ -19,7 +19,7 @@ Always learning and building! 🚀
 
 <div align="center">
   <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gus-rautenberg&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rautenberg&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8&card_width=450" />
+  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rautenberg&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=6" />
 </div>
 
 ---
